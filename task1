@@ -30,13 +30,13 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple Website</h1>
+        <h1>Welcome to My own website</h1>
     </header>
     <div class="container">
         <h2>About Us</h2>
         <p>This is a simple website created using HTML and CSS.</p>
         <h2>Our Vision</h2>
-        <p>To create meaningful web experiences.</p>
+        <p>To create meaningful web experiences with various UIs.</p>
         <h2>Our Team</h2>
         <p>We are a small but dedicated team of developers.</p>
         <img src="https://via.placeholder.com/800x400" alt="Placeholder Image">
